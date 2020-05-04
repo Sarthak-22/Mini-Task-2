@@ -6,3 +6,4 @@ __Problem statement__ -
 __Ideation__ - 
 
  * Data gathering for face detection __=>__ Training our recognizer => Facial recognition (positive/negative) __=>__ signal sent to Rpi __=>__ signal sent by Rpi to solenoid lock
+ * RPi camera would be used to click pictures for facial recongnition. Hence, we import __Picamera library__ before writing the code for classifier. 

@@ -22,4 +22,8 @@ __2.__   __Ideation__ -
   
   Components | Feasibility | Advantages | Disadvantages
   -----------| ----------- | ---------- | -------------
-  Inertial Measurement Unit (IMU) | 
+  Inertial Measurement Unit (IMU) | __MPU 6050__ (IMU) is readily available and no special prerequisite knowledge | Includes both accelerometer and gyroscope. Uses I2C communication. Connections can be made by simply referring to the data sheet | It is a bit noisy and drifts and not perfectly accurate | 
+  Brushless Motors | Any beginnner can work with motors. Easily available | Less noisy as compared to other DC motors. They also with come with an in-built motor driver system | Cannot be used for heavy robot applications. Motor torque is generally less for larger deviation from equilibrium |
+  Power Source | Easy fixation and cheap | 12V battery can easily power the motor with a nominal capacity. Long-lasting and rechargeable. | Added weight of the battery may harm the robot performance. |
+  PIC32 Microcontroller | Not so easy to program. A skilled programmer required. | Cheap and readily available. Very easy to program if its use is clear. | Beginners cannot easily program. Even the datasheets are company specific. |
+ 

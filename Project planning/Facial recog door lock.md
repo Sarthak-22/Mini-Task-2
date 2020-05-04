@@ -28,4 +28,4 @@ __Scope of improvement/changes__ -
 
 * All the other components/softwares and their uses have been well defined in the above project and require no further modifications.
 
-The Project description can be found here - [Facial Recog based Door lock]()
+The Project description can be found here - [Facial Recog based Door lock](https://github.com/Sarthak-22/Mini-Task-1/blob/master/IOT%20Projects/Facial%20recog%20based%20door.md)

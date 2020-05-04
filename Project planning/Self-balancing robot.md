@@ -36,5 +36,6 @@ __Scope of improvement__ -
  * Another potential improvement would be to add a third PID loop that takes as input a target robot speed and the mean RPM between the two motors, and outputs an angle value. This would allow us to tell the robot to move at a certain speed, it would then attempt to lean over at a certain angle which will result in it moving at some speed in order to maintain balance. This would allow the robot to move forwards and backwards.
  
  * __However, as the number of PID loops increases, the computational efficiency and calculation time would eventually decrease. Hence, it becomes increasingly necessary to choose limited number of PID loops at a time__. 
- 
+  
+Project description can be found here - [Self balancing Robot](https://github.com/Sarthak-22/Mini-Task-1/blob/master/Robotics%20Project/Self-balancing%20robot.md)
  
